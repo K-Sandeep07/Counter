@@ -1,28 +1,37 @@
-🧮 Counter App (React)
+# Counter App (React)
 
-A simple React-based counter application that allows users to increase and decrease a numerical value. This project is perfect for beginners practicing React class components, state management, and event handling.
+A simple React counter application built using class components and state management. This project allows users to increase and decrease a number using buttons.
 
-📌 Features
+## Output
 
-➕ Increase the counter
+After running the project, take a screenshot of the UI and upload it to your repository.  
+Place the image inside an `assets` folder and reference it like this:
 
-➖ Decrease the counter
+```
+![App Screenshot](assets/output.png)
+```
 
-🎨 Simple & responsive UI
+## Features
 
-⚛️ Built using React Class Components
+- Increase the counter
+- Decrease the counter
+- Clean and simple UI
+- Built using React class components
+- Custom CSS styling
 
-💅 Custom styling with CSS
+## Project Structure
 
-📂 Project Structure
-src/
-│── index.js       → Main Counter component
-│── index.css      → Styles for the Counter app
+```
+project-folder/
+│── src/
+│   │── index.js
+│   │── index.css
+│── package.json
+│── README.md
+```
 
-🛠️ Technologies Used
+## Technologies Used
 
-React
-
-JavaScript (ES6)
-
-CSS3
+- React
+- JavaScript (ES6)
+- CSS3
